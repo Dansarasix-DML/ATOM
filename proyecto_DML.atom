@@ -7,5 +7,10 @@
   <author>
     <name>Daniel Marín López</name>
   </author>
+  <generator>GitHub</generator>
+  <icon>https://dansarasix-dml.github.io/ATOM/icon.png</icon>
+  
+  <category term="Noticias Generales"/>
+  
   
 </feed>
