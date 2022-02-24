@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="https://dansarasix-dml.github.io/ATOM/"
-      xml:lang="es"
-      xml:base="https://dansarasix-dml.github.io/ATOM/proyecto_DML.atom">
+<feed xmlns="https://dansarasix-dml.github.io/ATOM/" xml:lang="es" xml:base="https://dansarasix-dml.github.io/ATOM/proyecto_DML.atom">
   <title>NOTICIONES - ATOM</title>
-  <id>ATOM-83629215</id>
+  <id>https://dansarasix-dml.github.io/ATOM/proyecto_DML.atom</id>
   <link href="https://dansarasix-dml.github.io/ATOM/proyecto_DML.atom"/>
   <updated>2022-02-24T16:00:00Z</updated>
   <author>
