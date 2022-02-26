@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es" xml:base="https://dansarasix-dml.github.io/ATOM/proyecto_DML.atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es" xml:base="https://dansarasix-dml.github.io/ATOM/proyecto_DML.xml">
   <title>NOTICIONES - ATOM</title>
-  <id>https://dansarasix-dml.github.io/ATOM/proyecto_DML.atom</id>
-  <link rel="self" href="https://dansarasix-dml.github.io/ATOM/proyecto_DML.atom"/>
+  <id>https://dansarasix-dml.github.io/ATOM/proyecto_DML.xml</id>
+  <link rel="self" href="https://dansarasix-dml.github.io/ATOM/proyecto_DML.xml"/>
   <updated>2022-02-24T16:00:00Z</updated>
   <author>
     <name>Daniel Marín López</name>
