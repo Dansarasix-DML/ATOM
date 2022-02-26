@@ -12,5 +12,18 @@
   
   <category term="Noticias Generales"/>
   
+  <entry>
+    <id>https://twitter.com/AsocMaltratados/status/1493954621592719361</id>
+    <title>Barco Pesquero naufraguó en aguas de Canadá</title>
+    <updated>2022-02-26T16:20:00Z</updated>
+    <link href="https://twitter.com/AsocMaltratados/status/1493954621592719361" />
+    <summary>
+      Ayer naufragó en aguas de Canadá un barco pesquero que salió de Galicia.
+      El 100% de sus tripulantes eran hombres. 3 han sido hallados con vida,
+      mientras que 21 han fallecido o continuan desaparecidos.
+    </summary>
+    <link rel="enclosure" type="image/jpg" title="Barco Pesquero naufraguó en aguas de Canadá" href="https://dansarasix-dml.github.io/ATOM/FLuWy5lXwAQPWcy.jpg" length="1234" /> 
+  </entry>
+  
   
 </feed>
